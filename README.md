@@ -1,5 +1,5 @@
 # curl_php
-Uso de Curl en PHP, donde se usa API de pruebas.
+Uso de CURL en PHP, donde se usa API de pruebas.
 
 
 ## API de prueba
